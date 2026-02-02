@@ -24,6 +24,5 @@ The model achieved an RMSE of approximately 1.26, indicating good agreement with
 - Apply to real experimental sensor data
 - Extend to uncertainty quantification
 =======
-# Sensor_Modelling_validaton
-Python project for sensor modelling validation
->>>>>>> 019bf9856d2c9b94317c0284940e9ad2d217f344
+
+

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sensor Data Modelling and Validation
 
 ## Overview
@@ -23,6 +23,7 @@ The model achieved an RMSE of approximately 1.26, indicating good agreement with
 - Compare multiple modelling approaches
 - Apply to real experimental sensor data
 - Extend to uncertainty quantification
-=======
+
+
 
 
